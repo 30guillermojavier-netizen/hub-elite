@@ -34,7 +34,14 @@
         "ServiceClass": "V",
         "Region": "I"
       }
-    ]
+    ],
+    "passengers": [
+    {
+        "firstName": "GOLD",
+        "lastName": "OPERACIONES",
+        "refNumber": "2"
+    }
+]
   },
   "balance": {
     "balance": [
