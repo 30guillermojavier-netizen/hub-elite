@@ -1,5 +1,48 @@
 {
-  "test": {
-    "ok": true
+  "validate": {
+    "pnr": "B7S6XV",
+    "requireOwnerConfirmation": false,
+    "owner": {
+      "firstName": "GOLD",
+      "lastName": "OPERACIONES",
+      "fqtv": "13428853513"
+    },
+    "segments": [
+      {
+        "departure": "SAL",
+        "departureTimestamp": "27/03/2026T08:00",
+        "arrival": "BOG",
+        "arrivalTimestamp": "27/03/2026T11:50",
+        "flightNumber": "383",
+        "carrier": "AV",
+        "result": "UPG10",
+        "refNumber": "1",
+        "CouponQuantity": 1,
+        "ServiceClass": "V",
+        "Region": "I"
+      },
+      {
+        "departure": "BOG",
+        "departureTimestamp": "27/03/2026T13:00",
+        "arrival": "CTG",
+        "arrivalTimestamp": "27/03/2026T14:35",
+        "flightNumber": "8490",
+        "carrier": "AV",
+        "result": "UPG4",
+        "refNumber": "2",
+        "CouponQuantity": 1,
+        "ServiceClass": "V",
+        "Region": "I"
+      }
+    ]
+  },
+  "balance": {
+    "balance": [
+      {
+        "amount": 1,
+        "name": "EB upgrade WL America"
+      }
+    ],
+    "tierName": "Magno"
   }
 }
