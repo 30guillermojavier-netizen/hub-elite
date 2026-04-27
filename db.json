@@ -7,8 +7,8 @@
       "lastName": "OPERACIONES",
       "fqtv": "13428853513"
     },
-   "segments": [
-    {
+    "segments": [
+      {
         "departure": "SAL",
         "departureTimestamp": "27/03/2026T08:00",
         "arrival": "BOG",
@@ -20,8 +20,8 @@
         "CouponQuantity": 1,
         "ServiceClass": "V",
         "Region": "I"
-    },
-    {
+      },
+      {
         "departure": "BOG",
         "departureTimestamp": "27/03/2026T13:00",
         "arrival": "CTG",
@@ -33,8 +33,8 @@
         "CouponQuantity": 1,
         "ServiceClass": "V",
         "Region": "I"
-    }
-],
+      }
+    ]
   },
   "balance": {
     "balance": [
