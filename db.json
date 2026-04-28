@@ -50,9 +50,9 @@
     ],
     "passengers": [
     {
-        "firstName": "GOLD",
-        "lastName": "OPERACIONES",
-        "refNumber": "2"
+      "firstName": "GOLD",
+      "lastName": "OPERACIONES",
+      "refNumber": "2"
     }
 ]
   },
