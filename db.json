@@ -36,9 +36,9 @@
       },
       {
         "departure": "SAL",
-        "departureTimestamp": "27/03/2026T08:00",
+        "departureTimestamp": "30/03/2026T08:00",
         "arrival": "BOG",
-        "arrivalTimestamp": "27/03/2026T11:50",
+        "arrivalTimestamp": "01/05/2026T11:50",
         "flightNumber": "383",
         "carrier": "AV",
         "result": "UPG4",
